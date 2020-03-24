@@ -1,4 +1,0 @@
-rootProject.name = 'Plames-Cross-Chat-Module'
-
-include ":Plames-API"
-project(":Plames-API").projectDir = file("../Plames-API")
